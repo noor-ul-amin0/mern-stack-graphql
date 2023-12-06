@@ -16,7 +16,7 @@ mern-stack/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/mern-stack.git
+   git clone [https://github.com/your-username/mern-stack.git](https://github.com/noor-ul-amin0/mern-stack-graphql.git)
    cd mern-stack
    ```
 
@@ -57,10 +57,6 @@ mern-stack/
 ## Author
 
 Noor Ul Amin
-
-## License
-
-This project is licensed under the ISC License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
